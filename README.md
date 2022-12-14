@@ -1,4 +1,4 @@
-# Aerofit-Casestudy--Descriptive-Statistics-Probability
+# Aerofit-Casestudy-Descriptive-Statistics-Probability
 
 ## About Aerofit-
 Aerofit is India's leading fitness equipment brand that manufactures residential and commercial fitness machines including treadmills, elliptical trainers, etc.
